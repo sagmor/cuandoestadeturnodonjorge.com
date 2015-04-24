@@ -1,0 +1,16 @@
+body {
+  background-color: #ECF0F1;
+}
+
+.row1 {
+  color: #1ABC9C;
+  text-align: center;
+}
+
+.row2 {
+  color: #2980B9;
+}
+
+.row3 td {
+    text-align: center;
+}
